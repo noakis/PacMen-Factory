@@ -1,1 +1,2 @@
 # PacMen-Factory
+With the click of a button you create new PacMen that would move about the browser window at their own pace.
