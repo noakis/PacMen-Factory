@@ -9,9 +9,13 @@ Using JavaScript with on click event, a PacMan image is created at a random loca
 How to run:
 
 . Clone the repository into your local environment
+
 . Open the index.html file
+
 . Right click and select 'Open Default browser' to open the project in your default browser
+
 . Click 'Add PacMan'button to generate a PacMan on the page
+
 . Click 'Start Game' button to make PacMen move on the screen
 
 Roadmap of future improvements:
