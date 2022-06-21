@@ -2,7 +2,7 @@
 
 <img src= "PacMen Factory.png" width='300'/>
 
-DESCRIPTION
+DESCRIPTION:
 
 Using JavaScript with on click event, a PacMan image is created at a random location within the browser window.  A new Pacman will continue to randomly get created with each 'Add Pacman' and all will move at their own pace.
 
